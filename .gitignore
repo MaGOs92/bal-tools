@@ -1,0 +1,5 @@
+csv_input/**
+csv_output/**
+node_modules/**
+
+.DS_Store

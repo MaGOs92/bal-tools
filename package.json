@@ -1,0 +1,11 @@
+{
+  "name": "bal-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^5.5.2",
+    "csv-stringify": "^6.4.4"
+  }
+}
